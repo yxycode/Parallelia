@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blocks.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\blocks.png"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiles_shadow.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\tiles_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiles_1x1.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\tiles_1x1.png"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiles_four_layer.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\tiles_four_layer.png"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiles_background.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\tiles_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiles_4x1.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\tiles_4x1.png"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiles_2x1.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\tiles_2x1.png"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_cursor.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\menu_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiles_one_layer.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\tiles_one_layer.png"
+    },
+    {
+        "merged": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maintitle10.png",
+        "source": "C:\\Users\\Inexis\\StudioProjects\\Parallelia\\app\\src\\main\\res\\drawable\\maintitle10.png"
+    }
+]
